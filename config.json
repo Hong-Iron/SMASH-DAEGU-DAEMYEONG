@@ -1,0 +1,82 @@
+{
+  "code": "DAEGU-DAEMYEONG",
+  "title": "SMASH DAEGU DAEMYEONG",
+  "school": "대구대",
+  "fullName": "대구대학교",
+  "campusName": "대구대학교 대명동캠퍼스",
+  "tagline": "대구대를 부셔 (시험기간 스트레스 해소)",
+  "description": "대구대학교 대명동캠퍼스를 3D로 부수고 지구 중심까지 파 내려가는 스트레스 해소 게임",
+  "ogAlt": "폭탄이 터지며 무너지는 대구대학교 대명동캠퍼스 3D 화면과 SMASH DAEGU DAEMYEONG 제목",
+  "url": "https://hong-iron.github.io/SMASH-DAEGU-DAEMYEONG/",
+  "antipode": "우루과이 앞바다(남대서양)",
+  "osm": {
+    "type": "way",
+    "id": 468613069
+  },
+  "styles": {},
+  "supportKakao": "https://qr.kakaopay.com/FKcOJKyOy1f405462",
+  "supportToss": "supertoss://send?amount=1000&bank=%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC&accountNo=100123297463&origin=qr",
+  "hub": "https://hong-iron.github.io/SMASH/",
+  "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
+  "goatcounter": "https://sassafras.goatcounter.com/count",
+  "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "exclude": [
+    {
+      "at": [
+        35.8556322,
+        128.5760966
+      ],
+      "n": "대구보명학교",
+      "why": "학교 건물 아님 — 학교 안내도와 건축물대장이 모두 이 건물을 같은 법인의 다른 특수학교인 대구보명학교·덕희학교(옛 사범대학관)로 적고 있어서 대구대학교 건물이 아니다."
+    },
+    {
+      "at": [
+        35.8567752,
+        128.575939
+      ],
+      "n": "대구광명학교",
+      "why": "학교 건물 아님 — 학교 안내도와 건축물대장이 모두 이 건물을 같은 법인의 다른 특수학교인 대구광명학교(신관)로 적고 있다."
+    },
+    {
+      "at": [
+        35.8570989,
+        128.5752552
+      ],
+      "n": "보건학교",
+      "why": "학교 건물 아님 — 건축물대장 이름과 학교 안내도가 모두 이 건물을 같은 법인의 다른 특수학교인 대구보건학교로 적고 있다."
+    },
+    {
+      "at": [
+        35.8566076,
+        128.57521
+      ],
+      "n": "대구영화학교",
+      "why": "학교 건물 아님 — 건축물대장 이름과 학교 안내도가 모두 이 건물을 같은 법인의 다른 특수학교인 대구영화학교로 적고 있다."
+    },
+    {
+      "at": [
+        35.857157,
+        128.5763556
+      ],
+      "n": "특수학교직업보도관",
+      "why": "학교 건물 아님 — 학교 안내도에 영화학교 기숙사로 나오는 동쪽 3층 건물이고, 건축물대장 이름도 특수학교직업보도관이다."
+    },
+    {
+      "at": [
+        35.8566623,
+        128.5763075
+      ],
+      "n": "직업교육관",
+      "why": "학교 건물 아님 — 9번에 이어진 동쪽 3층 건물로, 학교 안내도에서는 특수학교가 쓰는 영화학교 기숙사 줄에 들어간다."
+    },
+    {
+      "at": [
+        35.8570222,
+        128.5761123
+      ],
+      "n": "",
+      "why": "학교 건물 아님 — 건축물대장에는 건물 이름 없이 대구대학교로만 적혀 있지만, 학교 안내도에서 이 자리는 같은 법인의 특수학교인 대구광명학교 기숙사다."
+    }
+  ]
+}
